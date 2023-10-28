@@ -1,0 +1,145 @@
+{
+  "costs": [
+    {
+      "id": 1,
+      "costName": "Pago de agua",
+      "date": "2019-10-10",
+      "description": "se pago el agua del mes de octubre",
+      "price": 200,
+      "quantity": "1"
+    },
+    {
+      "id": 2,
+      "costName": "Pago de cajas contenedoras",
+      "date": "2019-11-10",
+      "description": "se compraron cajas contenedoras para la producción de zanahorias",
+      "price": 500,
+      "quantity": "45 cajas contenedoras"
+    },
+    {
+      "id": 3,
+      "costName": "Comida para el personal",
+      "date": "2019-12-05",
+      "description": "Compra de alimentos para el personal de la granja",
+      "price": 300,
+      "quantity": "1 compra"
+    },
+    {
+      "id": 4,
+      "costName": "Reparacion de maquinaria",
+      "date": "2020-01-15",
+      "description": "Se reparo la trilladora de maíz",
+      "price": 800,
+      "quantity": "1 reparacion"
+    },
+    {
+      "id": 5,
+      "costName": "Semillas de tomate",
+      "date": "2020-02-20",
+      "description": "Compra de semillas de tomate para la temporada de primavera",
+      "price": 150,
+      "quantity": "1 paquete de semillas"
+    },
+    {
+      "id": 6,
+      "costName": "Jornaleros para la cosecha",
+      "date": "2020-03-25",
+      "description": "Contratacion de jornaleros para la cosecha de maiz",
+      "price": 1000,
+      "quantity": "5 jornaleros por 1 semana"
+    },
+    {
+      "id": 7,
+      "costName": "Tractor",
+      "date": "2023-09-21T05:00:00.000Z",
+      "description": "Lineas",
+      "price": 200,
+      "quantity": "1"
+    }
+  ],
+  "profits": [
+    {
+      "id": 1,
+      "profitName": "Manzanas",
+      "date": "2019-07-10",
+      "description": "Se vendió 300 paquetes de manzanas a Exportadora de frutas",
+      "price": 250,
+      "quantity": "300 paquetes"
+    },
+    {
+      "id": 2,
+      "profitName": "Zanahorias",
+      "date": "2019-11-15",
+      "description": "Se vendió 200 paquetes de zanahorias a Juan Perez",
+      "price": 200,
+      "quantity": "200 paquetes de zanahorias"
+    },
+    {
+      "id": 3,
+      "profitName": "Papayas",
+      "date": "2020-01-15",
+      "description": "Se vendió 150 paquetes de papayas a Distribuidora Tropical",
+      "price": 300,
+      "quantity": "150 paquetes"
+    },
+    {
+      "id": 4,
+      "profitName": "Espinacas",
+      "date": "2020-02-20",
+      "description": "Se vendió 100 paquetes de espinacas a Supermercado Verde",
+      "price": 150,
+      "quantity": "100 paquetes de espinacas"
+    },
+    {
+      "id": 5,
+      "profitName": "Plátanos",
+      "date": "2020-03-25",
+      "description": "Se vendió 400 paquetes de plátanos a Comercializadora Frutal",
+      "price": 180,
+      "quantity": "400 paquetes"
+    },
+    {
+      "id": 6,
+      "profitName": "Pimientos",
+      "date": "2020-04-30",
+      "description": "Se vendió 250 paquetes de pimientos a Mercado Fresco",
+      "price": 220,
+      "quantity": "250 paquetes de pimientos"
+    },
+    {
+      "id": 7,
+      "profitName": "Camote",
+      "date": "2023-09-20T05:00:00.000Z",
+      "description": "Venta de 30 kg de camote",
+      "price": 300,
+      "quantity": "30"
+    }
+  ],
+  "rates": [
+    {
+      "rate": 2,
+      "date": "2023-10-25T07:33:34.668Z",
+      "productId": 2,
+      "userId": 2,
+      "id": 1
+    }
+  ],
+  "sales": [
+    {
+      "id": 1,
+      "name": "Papas",
+      "description": "Papas haradas durante bastante tiempo",
+      "unitPrice": 1.5,
+      "quantity": 20,
+      "imageUrl": "https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ce40fc4a-b351-420d-a06e-14304018bed5"
+    },
+    {
+      "id": 2,
+      "name": "Camotes",
+      "description": "Ricos camotes",
+      "unitPrice": "1.50",
+      "quantity": "30",
+      "imageUrl": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQTKPfhD7KjTxh3WxlIC7zzKlnmTR1CaNt29U9M76o8WdjJ77UZvo1fKVSciIiuRybj"
+    }
+  ]
+}
